@@ -23,7 +23,7 @@
   <img align="center" alt="Renato-Dart" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg">
   <img align="center" alt="Renato-Flutter" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg">
   
-  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="">
+ 
 </div>
   
   ##
